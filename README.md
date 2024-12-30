@@ -10,5 +10,4 @@ A Flutter project implementing Bumble/Tinder-style swipe card functionality.
 ## Preview
 
 Check out the functionality in action below:  
-[![Swipe Card Functionality]]
 <img align="center" src="/card_swipe_preview.gif" alt="Coding"  width="500" />
