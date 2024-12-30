@@ -1,16 +1,14 @@
-# card_swipe
+# Card Swipe
 
-A new Flutter project.
+A Flutter project implementing Bumble/Tinder-style swipe card functionality.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Swipe left or right to dismiss cards.
+- Dynamic card stacking and smooth animations.
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check out the functionality in action below:  
+[![Swipe Card Functionality](https://via.placeholder.com/800x450.png?text=Click+to+View+Video)](https://drive.google.com/file/d/18sIbD26JL6yOMVeUEyZlRy8wCif2SsQW/view?usp=sharing)
+<img align="right" src="/card_swipe_preview.gif" alt="Coding"  width="220" />
